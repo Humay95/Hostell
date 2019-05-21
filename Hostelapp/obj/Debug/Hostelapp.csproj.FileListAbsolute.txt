@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Hostelapp\Hostelapp\bin\Debug\Hostelapp.exe.config
+C:\Users\User\source\repos\Hostelapp\Hostelapp\bin\Debug\Hostelapp.exe
+C:\Users\User\source\repos\Hostelapp\Hostelapp\bin\Debug\Hostelapp.pdb
+C:\Users\User\source\repos\Hostelapp\Hostelapp\obj\Debug\Hostelapp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Hostelapp\Hostelapp\obj\Debug\Hostelapp.Form1.resources
+C:\Users\User\source\repos\Hostelapp\Hostelapp\obj\Debug\Hostelapp.Properties.Resources.resources
+C:\Users\User\source\repos\Hostelapp\Hostelapp\obj\Debug\Hostelapp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Hostelapp\Hostelapp\obj\Debug\Hostelapp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hostelapp\Hostelapp\obj\Debug\Hostelapp.exe
+C:\Users\User\source\repos\Hostelapp\Hostelapp\obj\Debug\Hostelapp.pdb
